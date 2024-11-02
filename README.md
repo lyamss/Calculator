@@ -2,6 +2,8 @@
 
 to reset the calculator you must click twice on =
 
+![Calculator](./ImagePng.png)
+
 *Start projet*
 
 ```
